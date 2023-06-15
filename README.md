@@ -1,5 +1,3 @@
-Claro, aquí tienes una versión actualizada del README que incluye las instrucciones para ejecutar el servidor propio y el enlace al repositorio correspondiente.
-
 # ChatApp
 
 Una aplicación de Flutter que permite chatear en tiempo real con diferentes usuarios de la aplicación. Utiliza un servidor propio construido con Node.js, MySQL y sockets para la comunicación en tiempo real. Puedes encontrar el servidor en el repositorio [Flutter Chat Backend](https://github.com/agustinascarpinelli/Flutter-chat-backend).
