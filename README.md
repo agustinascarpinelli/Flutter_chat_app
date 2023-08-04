@@ -53,11 +53,6 @@ Una aplicación de Flutter que permite chatear en tiempo real con diferentes usu
    flutter run
    ```
 
-## Uso
-
-_Proporciona instrucciones sobre cómo utilizar tu aplicación, cómo registrarse, iniciar sesión, agregar amigos y chatear._
-
-## Contribución
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes sugerencias de mejoras, siéntete libre de abrir un [issue](https://github.com/tu-usuario/flutter_chat_app/issues) o enviar un [pull request](https://github.com/tu-usuario/flutter_chat_app/pulls).
 
